@@ -8,6 +8,6 @@ Please contact me at deshkarabhishek@gmail.com
 
 ## Disclaimer
 
-I have created this plugin from scratch. You won't see any copy pasted code. ALso I have spent sleepless nights to create and test this plugin. So do not forge to give credits!
+I have created this plugin from the scratch.You won't see any copy pasted code. Moreover I have spent sleepless nights to create and test this plugin. So do not forge to give credits!
 
 ## Happy Gaming!
