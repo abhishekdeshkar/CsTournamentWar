@@ -2,7 +2,7 @@
 
 This plugin will allow you to manage counter-strike tournament easily. It has all the features you want. Features list is long so I'm not listing out here.
 
-## How to use this plugin works  ?
+## How to use this plugin and how it works  ?
 
 Please contact me at deshkarabhishek@gmail.com
 
